@@ -63,7 +63,7 @@ Screen2 As screen:
     Button1_2 As button:
         Height: =69
         Size: =20
-        Text: ="All"
+        Text: ="Sam 2"
         Width: =217
         X: =506
         Y: =406
