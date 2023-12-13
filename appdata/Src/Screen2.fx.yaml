@@ -60,3 +60,12 @@ Screen2 As screen:
         Y: =332
         ZIndex: =8
 
+    Button1_2 As button:
+        Height: =69
+        Size: =20
+        Text: ="All"
+        Width: =217
+        X: =506
+        Y: =406
+        ZIndex: =9
+
