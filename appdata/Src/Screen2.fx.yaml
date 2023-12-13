@@ -1,0 +1,62 @@
+Screen2 As screen:
+
+    TextInput1 As text:
+        Default: ="First Name"
+        Size: =18
+        X: =170
+        Y: =200
+        ZIndex: =1
+
+    TextInput2 As text:
+        Default: ="Gamil"
+        Size: =18
+        X: =170
+        Y: =332
+        ZIndex: =2
+
+    TextInput3 As text:
+        Default: ="Last Name"
+        Size: =18
+        X: =805
+        Y: =200
+        ZIndex: =3
+
+    TextInput4 As text:
+        Default: ="Contact"
+        Size: =18
+        X: =805
+        Y: =332
+        ZIndex: =4
+
+    Button1 As button:
+        Height: =69
+        Size: =20
+        Text: ="Submit"
+        Width: =217
+        X: =221
+        Y: =501
+        ZIndex: =5
+
+    Button1_1 As button:
+        Height: =69
+        Size: =20
+        Text: ="Ok"
+        Width: =217
+        X: =513
+        Y: =501
+        ZIndex: =6
+
+    TextInput4_1 As text:
+        Default: ="Contact 123"
+        Size: =18
+        X: =805
+        Y: =416
+        ZIndex: =7
+
+    TextInput2_1 As text:
+        Default: ="Mobile"
+        Size: =18
+        X: =170
+        Y: =416
+        ZIndex: =8
+
