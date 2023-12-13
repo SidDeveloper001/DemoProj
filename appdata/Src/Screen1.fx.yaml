@@ -33,7 +33,7 @@ Screen1 As screen:
         Size: =32
         Text: ="Register Yourself To Start  A New Adventure..!"
         Width: =667
-        X: =178
-        Y: =362
+        X: =84
+        Y: =478
         ZIndex: =4
 

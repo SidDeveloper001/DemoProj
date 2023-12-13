@@ -11,21 +11,21 @@ Screen2 As screen:
         Default: ="Gamil"
         Size: =18
         X: =170
-        Y: =332
+        Y: =266
         ZIndex: =2
 
     TextInput3 As text:
         Default: ="Last Name"
         Size: =18
-        X: =805
+        X: =552
         Y: =200
         ZIndex: =3
 
     TextInput4 As text:
         Default: ="Contact"
         Size: =18
-        X: =805
-        Y: =332
+        X: =552
+        Y: =266
         ZIndex: =4
 
     Button1 As button:
@@ -49,14 +49,14 @@ Screen2 As screen:
     TextInput4_1 As text:
         Default: ="Contact 123"
         Size: =18
-        X: =805
-        Y: =416
+        X: =552
+        Y: =332
         ZIndex: =7
 
     TextInput2_1 As text:
         Default: ="Mobile"
         Size: =18
         X: =170
-        Y: =416
+        Y: =332
         ZIndex: =8
 
